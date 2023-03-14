@@ -2,76 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f3efe2-44b9-48d6-a6be-cc920ae22e7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/groovy_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structuaral Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ant-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ant-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-astbuilder-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-astbuilder-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-commons-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-commons-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-picocli-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-cli-picocli-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-console-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-console-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-contracts-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-contracts-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-datetime-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-datetime-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-dateutil-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-dateutil-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-docgenerator-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-docgenerator-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ginq-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ginq-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovysh-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovysh-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jmx-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jmx-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-json-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-json-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jsr223-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-jsr223-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-library-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-macro-library-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-nio-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-nio-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-servlet-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-servlet-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-sql-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-sql-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-swing-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-swing-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-templates-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-templates-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-junit5-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-test-junit5-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-testng-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-testng-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-toml-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-toml-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-xml-4.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-xml-4.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/AudioPlayerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Mp3Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/BankAccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/ProxyBankAccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/RealBankAccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -106,10 +48,37 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Adapter.Test">
+    <configuration name="Adapter.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.Test" />
+      <module name="Structuaral Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Proxy.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proxy.Test" />
+      <module name="Structuaral Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAO.Test" />
       <module name="Structuaral Pattern" />
@@ -125,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Adapter.Test" />
+        <item itemvalue="Application.Proxy.Test" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -137,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678593242134</updated>
-      <workItem from="1678593243595" duration="956000" />
+      <workItem from="1678593243595" duration="4212000" />
     </task>
     <servers />
   </component>
